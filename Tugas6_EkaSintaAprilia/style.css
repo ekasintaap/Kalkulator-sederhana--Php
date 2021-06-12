@@ -1,0 +1,82 @@
+body {
+    background: #c1eaec;
+    font-family: 'Poppins', sans-serif;
+}
+
+.kalkulator {
+    width: 700px;
+    height: 600px;
+    background: #BC88BA;
+    margin: 100px auto;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px 0px #c1e0e2;
+}
+
+.bilangan {
+    width: 200px;
+    margin: 5px;
+    border: none;
+    font-size: 16pt;
+    border-radius: 10px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.bil {
+    width: 300px;
+    margin: 5px;
+    border: none;
+    font-size: 16pt;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #DDE7E7;
+}
+
+.bila {
+    width: 500px;
+    margin: 5px;
+    border: none;
+    font-size: 16pt;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #DDE7E7;
+}
+
+.tombol {
+    width: auto;
+    padding-top: 30px;
+    background: #C1EBEB;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 5px;
+    padding: 10px 30px;
+    color: #eee;
+    font-size: 15pt;
+    border-bottom: 4px solid #77c2c2;
+    color: #BC88BA
+}
+
+.sub-judul {
+    text-align: right;
+    color: #c1eaec;
+    font-size: small;
+}
+
+.judul {
+    text-align: center;
+    color: #eee;
+    font-weight: normal;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.label {
+    text-align: center;
+    color: #eee;
+    font-weight: normal;
+}
+
+#ipb2j {
+    font-size: medium;
+}
